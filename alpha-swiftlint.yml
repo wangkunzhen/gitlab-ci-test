@@ -1,0 +1,11 @@
+analyzer_rules:
+  - unused_declaration
+  - unused_import
+opt_in_rules:
+  - empty_count
+  - empty_string
+  - explicit_init
+  - fatal_error_message
+  - force_unwrapping
+disabled_rules:
+  - trailing_whitespace
